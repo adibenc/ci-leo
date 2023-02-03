@@ -1,5 +1,5 @@
 {
-    "name": "adib-enc/ci-leo",
+    "name": "adibenc/ci-leo",
     "description": "simplify codeigniter 3 in general manner",
     "type": "library",
     "autoload": {
