@@ -1,5 +1,5 @@
 <?php 
-namespace Adibenc\Cileo;
+namespace CiLeo;
 
 include_once(BASEPATH."/core/Model.php");
 
