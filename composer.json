@@ -1,0 +1,17 @@
+{
+    "name": "adib-enc/ci-leo",
+    "description": "simplify codeigniter 3 in general manner",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Adibenc\\CiLeo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "adib-enc",
+            "email": "adib35785@mail.ru"
+        }
+    ],
+    "require": {}
+}
